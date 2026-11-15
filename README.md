@@ -4,10 +4,10 @@
 
 **Use an image, GIF or video as your Discord background, with matching panel opacity and a built-in file library.**
 
-[![Version](https://img.shields.io/badge/version-5.0.1-5865F2.svg)](https://github.com/gamehunt7062/discord-custom-background)
+[![Version](https://img.shields.io/badge/version-5.0.1-5865F2.svg)](https://github.com/gamehuntt/discord-custom-background)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-userscript-orange.svg)](#ways-to-use-it)
-[![Stars](https://img.shields.io/github/stars/GameHunt7062/Discord-Custom-Background?style=flat&color=yellow)](https://github.com/GameHunt7062/Discord-Custom-Background/stargazers)
+[![Stars](https://img.shields.io/github/stars/gamehuntt/Discord-Custom-Background?style=flat&color=yellow)](https://github.com/gamehuntt/Discord-Custom-Background/stargazers)
 
 [Install](#installation) · [Features](#features) · [How to use](#using-the-panel) · [Troubleshooting](#troubleshooting) · [Contributing](#contributing)
 
@@ -87,13 +87,13 @@ The methods below are listed from the easiest to the most advanced. Choose the o
 
 ## Installation
 
-The script file is here: **[discord-custom-background.user.js](https://raw.githubusercontent.com/gamehunt7062/discord-custom-background/main/discord-custom-background.user.js)**
+The script file is here: **[discord-custom-background.user.js](https://raw.githubusercontent.com/gamehuntt/discord-custom-background/main/discord-custom-background.user.js)**
 
 ### Method 1: Browser console (easiest)
 
 Nothing to install. This is the fastest way to try the script.
 
-1. **Copy the script.** Open the [script file](https://raw.githubusercontent.com/gamehunt7062/discord-custom-background/main/discord-custom-background.user.js). Press <kbd>Ctrl</kbd>+<kbd>A</kbd> to select everything, then <kbd>Ctrl</kbd>+<kbd>C</kbd> to copy. On macOS, use <kbd>Cmd</kbd> instead of <kbd>Ctrl</kbd>.
+1. **Copy the script.** Open the [script file](https://raw.githubusercontent.com/gamehuntt/discord-custom-background/main/discord-custom-background.user.js). Press <kbd>Ctrl</kbd>+<kbd>A</kbd> to select everything, then <kbd>Ctrl</kbd>+<kbd>C</kbd> to copy. On macOS, use <kbd>Cmd</kbd> instead of <kbd>Ctrl</kbd>.
 2. **Open Discord in your browser.** Go to [discord.com/app](https://discord.com/app) and log in.
 3. **Open the console.** Press <kbd>F12</kbd> (or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>; <kbd>Cmd</kbd>+<kbd>Option</kbd>+<kbd>I</kbd> on macOS) and click the **Console** tab.
    - On Safari, first turn on the Develop menu in **Settings → Advanced**, then press <kbd>Option</kbd>+<kbd>Cmd</kbd>+<kbd>C</kbd>.
@@ -114,7 +114,7 @@ After the first setup, the background loads by itself every time you open Discor
    - [Violentmonkey](https://violentmonkey.github.io/): Chrome, Edge, Firefox
 2. **Install the script.** Click the link below. Your userscript manager opens an install page. Press **Install**.
 
-   **[Install Discord Custom Background](https://raw.githubusercontent.com/gamehunt7062/discord-custom-background/main/discord-custom-background.user.js)**
+   **[Install Discord Custom Background](https://raw.githubusercontent.com/gamehuntt/discord-custom-background/main/discord-custom-background.user.js)**
 
 3. **Open Discord in your browser**: [discord.com/app](https://discord.com/app). If it was already open, reload the page.
 4. Look for the round button in the bottom-right corner. This is the control panel.
@@ -128,7 +128,7 @@ The script also works on `ptb.discord.com` and `canary.discord.com`.
 **PTB** (Public Test Build) and **Canary** are test versions of the Discord desktop app. They are separate apps from the normal Discord app. You can install them next to it, and you must log in to each one separately. Developer tools are normally available in these versions, which makes this method simple.
 
 1. **Install the app.** Download **Discord PTB** or **Discord Canary** from Discord's official download page, then install it and log in.
-2. **Copy the script.** Open the [script file](https://raw.githubusercontent.com/gamehunt7062/discord-custom-background/main/discord-custom-background.user.js), press <kbd>Ctrl</kbd>+<kbd>A</kbd> and then <kbd>Ctrl</kbd>+<kbd>C</kbd> (<kbd>Cmd</kbd> on macOS).
+2. **Copy the script.** Open the [script file](https://raw.githubusercontent.com/gamehuntt/discord-custom-background/main/discord-custom-background.user.js), press <kbd>Ctrl</kbd>+<kbd>A</kbd> and then <kbd>Ctrl</kbd>+<kbd>C</kbd> (<kbd>Cmd</kbd> on macOS).
 3. **Open the developer tools in the app.** Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>Cmd</kbd>+<kbd>Option</kbd>+<kbd>I</kbd> on macOS) and click the **Console** tab.
 4. **Paste and run.** Paste the script and press <kbd>Enter</kbd>. If asked, type `allow pasting` first. A round button appears in the bottom-right corner.
 
@@ -183,7 +183,7 @@ Your file may already contain other settings. Keep them, and only add the new li
 **Step 4. Start Discord again.**
 
 **Step 5. Copy the script.**
-Open the [script file](https://raw.githubusercontent.com/gamehunt7062/discord-custom-background/main/discord-custom-background.user.js), press <kbd>Ctrl</kbd>+<kbd>A</kbd> to select everything, and copy it (<kbd>Cmd</kbd> on macOS).
+Open the [script file](https://raw.githubusercontent.com/gamehuntt/discord-custom-background/main/discord-custom-background.user.js), press <kbd>Ctrl</kbd>+<kbd>A</kbd> to select everything, and copy it (<kbd>Cmd</kbd> on macOS).
 
 **Step 6. Open the developer tools in Discord.**
 Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>Cmd</kbd>+<kbd>Option</kbd>+<kbd>I</kbd> on macOS) and click the **Console** tab.
@@ -333,4 +333,4 @@ Changing the Discord client, even only its appearance, may go against Discord's 
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright © 2026 gamehunt7062. [Support Server](https://discord.com/invite/3MJAYraXu8)
+Released under the [MIT License](LICENSE). Copyright © 2026 gamehuntt. [Support Server](https://discord.com/invite/3MJAYraXu8)
